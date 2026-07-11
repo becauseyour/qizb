@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="妹子视频" tvg-logo="https://live.fanmingming.cn/tv/妹子视频.png" group-title="哈TV18+",妹子视频
-https://video.nrzj.vip/
+https://video.nrzj.vip/video.php?
 #EXTINF:-1 tvg-name="彩虹R" tvg-logo="https://live.fanmingming.cn/tv/彩虹R.png" group-title="哈TV18+",彩虹R
 http://58.99.33.2:1935/liveedge2/TnIsFYAs_408_1/chunklist_w114642605.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
 #EXTINF:-1 tvg-name="松視1台" tvg-logo="https://live.fanmingming.cn/tv/松視1台.png" group-title="哈TV18+",松視1台
