@@ -1,0 +1,1067 @@
+﻿小七专用,https://upos-bvc-mirrorpu.bilivideo.com//upgcxcode/27/41/41052604127/41052604127-1-16.mp4?m=v1&net_type=0&tf_type=0&cid=41052604127&signed_payloads=deadline,mid,nbs,platform,trid,uipk&deadline=1787120324&mid=0&nbs=1&platform=html5&trid=a58a9f1e0c5a43e0afb8c51593945a0h&uipk=5&uip=218.12.17.23&force_host=2&app_key=vod_auth&rate_Bps=1000000&unsigned_payloads=agrr,build,buvid,dl,f&agrr=0&build=0&buvid=&dl=0&f=h_0_0&sign=a334d242d9052fd323174988a2d95e9b&backup_num=0&bandwidth_rate_Bps=566142&cdn_type=1
+体育直播,#genre#
+篮球专场,https://live.ottiptv.cc/huya/27949551
+羽毛球专场,https://live.ottiptv.cc/huya/30806115
+乒乓球专场,https://live.ottiptv.cc/huya/23505696
+斯诺克专场,https://live.ottiptv.cc/huya/880214
+赛车专场,https://live.ottiptv.cc/huya/18152482
+摔跤专场,https://live.ottiptv.cc/huya/20072812
+拳击专场,https://live.ottiptv.cc/huya/18152380
+格斗专场,https://live.ottiptv.cc/huya/20072796
+柔道专场,https://live.ottiptv.cc/huya/20072837
+WWE专场,https://live.ottiptv.cc/huya/30021023
+摩托专场,https://live.ottiptv.cc/huya/19197407
+健美专场,https://live.ottiptv.cc/huya/26106704
+健身专场,https://live.ottiptv.cc/huya/24354754
+越野专场,https://live.ottiptv.cc/huya/30020978
+Big3专场,https://live.ottiptv.cc/huya/30847442
+飞盘专场,https://live.ottiptv.cc/huya/30689549
+飞镖专场,https://live.ottiptv.cc/huya/30631766
+瑜伽专场,https://live.ottiptv.cc/huya/20753449
+棒球专场,https://live.ottiptv.cc/huya/20072763
+扇耳光专场,https://live.ottiptv.cc/huya/30631765
+电影直播,#genre#
+周星驰专场,https://live.ottiptv.cc/huya/11336587
+李连杰专场,https://live.ottiptv.cc/huya/11342390
+刘德华专场,https://live.ottiptv.cc/huya/11342424
+林正英专场,https://live.ottiptv.cc/huya/11342421
+甄子丹专场,https://live.ottiptv.cc/huya/11352935
+沈腾专场,https://live.ottiptv.cc/huya/11601968
+黄渤专场,https://live.ottiptv.cc/huya/11352876
+周润发专场,https://live.ottiptv.cc/huya/11342387
+成龙专场,https://live.ottiptv.cc/huya/11342386
+古天乐专场,https://live.ottiptv.cc/huya/29982675
+王晶专场,https://live.ottiptv.cc/huya/11602058
+吴京专场,https://live.ottiptv.cc/huya/11602077
+洪金宝专场,https://live.ottiptv.cc/huya/11279251
+徐克专场,https://live.ottiptv.cc/huya/11352909
+徐峥专场,https://live.ottiptv.cc/huya/11602043
+邓超专场,https://live.ottiptv.cc/huya/11336592
+梁家辉专场,https://live.ottiptv.cc/huya/11342429
+张卫健专场,https://live.ottiptv.cc/huya/11342423
+王宝强专场,https://live.ottiptv.cc/huya/30080251
+陈小春专场,https://live.ottiptv.cc/huya/11336719
+郭富城专场,https://live.ottiptv.cc/huya/20985865
+吴镇宇专场,https://live.ottiptv.cc/huya/23865096
+陆小凤专场,https://live.ottiptv.cc/huya/11342427
+强森专场,https://live.ottiptv.cc/huya/21059581
+斯坦森专场,https://live.ottiptv.cc/huya/21059588
+马东锡专场,https://live.ottiptv.cc/huya/21059556
+灾难片系列,https://live.ottiptv.cc/huya/23728647
+贺岁片系列,https://live.ottiptv.cc/huya/11601986
+科幻片系列,https://live.ottiptv.cc/huya/11352965
+丧尸片系列,https://live.ottiptv.cc/huya/24314160
+怪兽片系列,https://live.ottiptv.cc/huya/29982674
+战争片系列,https://live.ottiptv.cc/huya/21059618
+硬汉片系列,https://live.ottiptv.cc/huya/23864973
+竞速片系列,https://live.ottiptv.cc/huya/29982635
+动作片系列,https://live.ottiptv.cc/huya/10871113
+爱情片系列,https://live.ottiptv.cc/huya/29982639
+犯罪片系列,https://live.ottiptv.cc/huya/30080165
+奇幻片系列,https://live.ottiptv.cc/huya/26355847
+冒险片系列,https://live.ottiptv.cc/huya/21059566
+盗墓片系列,https://live.ottiptv.cc/huya/11601981
+穿越片系列,https://live.ottiptv.cc/huya/29465892
+悬疑片系列,https://live.ottiptv.cc/huya/21059530
+喜剧片系列,https://live.ottiptv.cc/huya/11602044
+英雄片系列,https://live.ottiptv.cc/huya/11601980
+枪战片系列,https://live.ottiptv.cc/huya/21059579
+武侠片系列,https://live.ottiptv.cc/huya/29982611
+复仇片系列,https://live.ottiptv.cc/huya/29982645
+星球片系列,https://live.ottiptv.cc/huya/30080234
+校园片系列,https://live.ottiptv.cc/huya/11352934
+警匪片系列,https://live.ottiptv.cc/huya/30041512
+谍战片系列,https://live.ottiptv.cc/huya/26355810
+动画片系列,https://live.ottiptv.cc/huya/11352878
+恐怖片系列,https://live.ottiptv.cc/huya/24884334
+惊悚片系列,https://live.ottiptv.cc/huya/26355802
+僵尸片系列,https://live.ottiptv.cc/huya/11352917
+音乐片系列,https://live.ottiptv.cc/huya/23860057
+杀手片系列,https://live.ottiptv.cc/huya/23728689
+体育片系列,https://live.ottiptv.cc/huya/23864480
+西部片系列,https://live.ottiptv.cc/huya/30080177
+香港片系列,https://live.ottiptv.cc/huya/29982660
+印度片系列,https://live.ottiptv.cc/huya/26355799
+热门片系列,https://live.ottiptv.cc/huya/880261
+高分片系列,https://live.ottiptv.cc/huya/23902225
+短片系列,https://live.ottiptv.cc/huya/17098448
+综艺直播,#genre#
+韩国综艺,https://live.ottiptv.cc/huya/11336725
+欧美综艺,https://live.ottiptv.cc/huya/20969124
+男生女生向前冲专场,https://live.ottiptv.cc/huya/30021042
+极限挑战专场,https://live.ottiptv.cc/huya/29982632
+青春环游记专场,https://live.ottiptv.cc/huya/30080246
+五十公里桃花坞专场,https://live.ottiptv.cc/huya/29465869
+高能少年团专场,https://live.ottiptv.cc/huya/29982609
+二十四小时专场,https://live.ottiptv.cc/huya/29982610
+哈哈哈哈哈专场,https://live.ottiptv.cc/huya/30080247
+演员请就位专场,https://live.ottiptv.cc/huya/23746691
+奔跑吧兄弟专场,https://live.ottiptv.cc/huya/29465870
+最强大脑专场,https://live.ottiptv.cc/huya/29465880
+现在就出发专场,https://live.ottiptv.cc/huya/21059551
+脱口秀大会专场,https://live.ottiptv.cc/huya/11352875
+新游记专场,https://live.ottiptv.cc/huya/20985794
+天赐的声音专场,https://live.ottiptv.cc/huya/30080249
+幸福三重奏专场,https://live.ottiptv.cc/huya/29982647
+咱们穿越吧专场,https://live.ottiptv.cc/huya/11352907
+我是大侦探专场,https://live.ottiptv.cc/huya/20969140
+中国好声音专场,https://live.ottiptv.cc/huya/23746691
+朋友请吃饭专场,https://live.ottiptv.cc/huya/11352918
+12道锋味专场,https://live.ottiptv.cc/huya/30080162
+我们的客栈专场,https://live.ottiptv.cc/huya/24609812
+变形计专场,https://live.ottiptv.cc/huya/23903164
+电视剧直播,#genre#
+探案剧专区,https://live.ottiptv.cc/huya/20969144
+都市剧专区,https://live.ottiptv.cc/huya/29982666
+刑侦剧专区,https://live.ottiptv.cc/huya/20969130
+家庭剧专区,https://live.ottiptv.cc/huya/11352872
+经典剧专区,https://live.ottiptv.cc/huya/11602081
+怀旧剧专区,https://live.ottiptv.cc/huya/30080241
+僵尸剧专区,https://live.ottiptv.cc/huya/23865148
+抗战剧专区,https://live.ottiptv.cc/huya/30080238
+台湾剧专区,https://live.ottiptv.cc/huya/11342436
+韩国剧专区,https://live.ottiptv.cc/huya/23863787
+美国剧专区,https://live.ottiptv.cc/huya/30080138
+英国剧专区,https://live.ottiptv.cc/huya/29982659
+校园剧专区,https://live.ottiptv.cc/huya/30080228
+谍战剧专区,https://live.ottiptv.cc/huya/30080225
+古装剧专区,https://live.ottiptv.cc/huya/24314158
+乡村剧专区,https://live.ottiptv.cc/huya/30080255
+偶像剧专区,https://live.ottiptv.cc/huya/11601964
+爱情剧专区,https://live.ottiptv.cc/huya/29982671
+搞笑剧专区,https://live.ottiptv.cc/huya/21059634
+武侠剧专区,https://live.ottiptv.cc/huya/20985816
+穿越剧专区,https://live.ottiptv.cc/huya/26355857
+年代剧专区,https://live.ottiptv.cc/huya/20969095
+纪录片直播,#genre#
+幻海航行,https://live.ottiptv.cc/douyu/17105786
+碎片记,https://live.ottiptv.cc/douyu/9412981
+宇宙视界,https://live.ottiptv.cc/douyu/9498354
+宇宙探索飞船,https://live.ottiptv.cc/douyu/9456028
+世界未解之谜,https://live.ottiptv.cc/douyu/9369468
+贝爷,https://live.ottiptv.cc/huya/20969143
+生存记,https://live.ottiptv.cc/huya/20985861
+航拍中国专场,https://live.ottiptv.cc/huya/22414123
+中国通史,https://live.ottiptv.cc/huya/20985822
+云游故宫1,https://live.ottiptv.cc/huya/19743457
+云游故宫2,https://live.ottiptv.cc/huya/19743452
+游戏直播,#genre#
+端游/无畏契约专场,https://live.ottiptv.cc/huya/660679
+端游/云顶之弈专场,https://live.ottiptv.cc/huya/24423598
+端游/穿越火线专场,https://live.ottiptv.cc/huya/660101
+端游/炉石传说专场,https://live.ottiptv.cc/huya/21103932
+端游/永劫无间专场,https://live.ottiptv.cc/huya/660115
+端游/DOTA2专场,https://live.ottiptv.cc/huya/476318
+端游/地下城与勇士专场,https://live.ottiptv.cc/huya/21103948
+手游/王者荣耀专场,https://live.ottiptv.cc/huya/660002
+手游/天天吃鸡专场,https://live.ottiptv.cc/huya/660004
+手游/三角洲行动专场,https://live.ottiptv.cc/huya/29701539
+手游/和平精英专场,https://live.ottiptv.cc/huya/660135
+手游/英雄联盟专场,https://live.ottiptv.cc/huya/24318577
+手游/CF专场,https://live.ottiptv.cc/huya/660102
+手游/DNF专场,https://live.ottiptv.cc/huya/29886331
+手游/火影忍者专场,https://live.ottiptv.cc/huya/25567648
+手游/第5人格专场,https://live.ottiptv.cc/huya/461698
+手游/JJ斗地主专场,https://live.ottiptv.cc/huya/30814433
+手游/欢乐斗地主专场,https://live.ottiptv.cc/huya/21103928
+单机/我的世界专场,https://live.ottiptv.cc/huya/667788
+单机/拳皇专场,https://live.ottiptv.cc/huya/17167271
+单机/小霸王专场,https://live.ottiptv.cc/huya/24723731
+音乐直播,#genre#
+周杰伦专场,https://live.ottiptv.cc/douyu/7537296
+双笙专场,https://live.ottiptv.cc/douyu/6476693
+室外专场,https://live.ottiptv.cc/douyu/9627625
+翻唱专场,https://live.ottiptv.cc/douyu/9572351
+动漫音乐专场,https://live.ottiptv.cc/douyu/9409703
+阿七点歌台,https://live.ottiptv.cc/douyu/3186217
+音悦喵点歌台,https://live.ottiptv.cc/douyu/3870925
+音乐台长,https://live.ottiptv.cc/douyu/9629943
+下饭音乐,https://live.ottiptv.cc/douyu/8661966
+音乐Wu哥,https://live.ottiptv.cc/douyu/8667755
+音乐快斗,https://live.ottiptv.cc/douyu/8324627
+蚕豆电台,https://live.ottiptv.cc/douyu/8768792
+音乐猛抬头,https://live.ottiptv.cc/douyu/8666105
+喵喵音乐台,https://live.ottiptv.cc/douyu/9568091
+黑糖音乐秀,https://live.ottiptv.cc/douyu/9560563
+荒草音乐,https://live.ottiptv.cc/douyu/8706465
+热星音乐菌,https://live.ottiptv.cc/douyu/8405922
+音乐Fans小琼,https://live.ottiptv.cc/douyu/8666210
+小飞飞流行DJ音乐,https://live.ottiptv.cc/douyu/10469362
+小舞点歌台,https://live.ottiptv.cc/huya/15590571
+24小时点歌台,https://live.ottiptv.cc/huya/25261191
+助眠音乐专场,https://live.ottiptv.cc/huya/21241811
+音乐小石榴,https://live.ottiptv.cc/huya/17091681
+DJ专场,https://live.ottiptv.cc/huya/20432228
+吉他专场,https://live.ottiptv.cc/huya/21241765
+24×7音乐,https://live.ottiptv.cc/huya/30483433
+轻音乐专场,https://live.ottiptv.cc/huya/26947138
+日语专场,https://live.ottiptv.cc/huya/21241795
+海选专场,https://live.ottiptv.cc/huya/21241781
+动漫直播,#genre#
+名侦探柯南,https://live.ottiptv.cc/huya/30080236
+火影忍者,https://live.ottiptv.cc/huya/29465866
+海贼王,https://live.ottiptv.cc/huya/29982634
+精灵宝可梦,https://live.ottiptv.cc/huya/23749096
+神奇宝贝,https://live.ottiptv.cc/huya/21241784
+数码宝贝,https://live.ottiptv.cc/huya/29941782
+宫崎骏,https://live.ottiptv.cc/huya/21059614
+钢之炼金术师,https://live.ottiptv.cc/huya/20985859
+黑子的篮球,https://live.ottiptv.cc/huya/30080253
+瑞克与莫蒂,https://live.ottiptv.cc/huya/29982655
+星辰变,https://live.ottiptv.cc/huya/24514506
+成龙历险记,https://live.ottiptv.cc/huya/11352946
+飞天小女警,https://live.ottiptv.cc/huya/11601958
+蜡笔小新,https://live.ottiptv.cc/huya/11352970
+樱桃小丸子,https://live.ottiptv.cc/huya/11342394
+猫和老鼠,https://live.ottiptv.cc/huya/11352879
+七龙珠,https://live.ottiptv.cc/huya/11601966
+全职高手,https://live.ottiptv.cc/huya/21059628
+哆啦A梦,https://live.ottiptv.cc/huya/11601963
+海绵宝宝,https://live.ottiptv.cc/huya/11352919
+魔法少女,https://live.ottiptv.cc/huya/21059587
+全职猎人,https://live.ottiptv.cc/huya/30080254
+四驱兄弟,https://live.ottiptv.cc/huya/11352922
+一人之上,https://live.ottiptv.cc/huya/11602065
+头文字D,https://live.ottiptv.cc/huya/11352889
+网球王子,https://live.ottiptv.cc/huya/11352882
+玩具总动员,https://live.ottiptv.cc/huya/30080256
+通灵王,https://live.ottiptv.cc/huya/20969112
+游戏王,https://live.ottiptv.cc/huya/20985856
+男子高中生的日常,https://live.ottiptv.cc/huya/20985858
+元气少女缘结神,https://live.ottiptv.cc/huya/11352967
+全职法师,https://live.ottiptv.cc/huya/26355772
+尸兄,https://live.ottiptv.cc/huya/26355846
+大头儿子小头爸爸,https://live.ottiptv.cc/huya/20969114
+哪吒传奇,https://live.ottiptv.cc/huya/26355782
+龙族,https://live.ottiptv.cc/huya/23865086
+间谍过家家,https://live.ottiptv.cc/huya/30080149
+罗小黑战记,https://live.ottiptv.cc/huya/24314159
+圣斗士星矢,https://live.ottiptv.cc/huya/10396612
+葫芦兄弟,https://live.ottiptv.cc/huya/20985834
+咒术回战,https://live.ottiptv.cc/huya/21059561
+反叛的鲁路修,https://live.ottiptv.cc/huya/20969113
+超自然武装当哒当,https://live.ottiptv.cc/huya/20985850
+新世纪福音战士,https://live.ottiptv.cc/huya/20985862
+足球小将,https://live.ottiptv.cc/huya/25725150
+轻羽飞扬,https://live.ottiptv.cc/huya/30805998
+虫师,https://live.ottiptv.cc/huya/21241791
+魔神英雄传,https://live.ottiptv.cc/huya/21241839
+埋堆堆直播1,https://live.ottiptv.cc/huya/23734246
+埋堆堆直播2,https://live.ottiptv.cc/huya/23734256
+国产动漫系列,https://live.ottiptv.cc/huya/11352869
+短句直播,#genre#
+陈翔六点半,https://live.ottiptv.cc/huya/11274154
+人生回答机本机,https://live.ottiptv.cc/douyu/9409722
+郑云工作室,https://live.ottiptv.cc/douyu/2995636
+王Li差点红,https://live.ottiptv.cc/douyu/9348469
+田小豆短剧,https://live.ottiptv.cc/douyu/10378551
+哈利影视,https://live.ottiptv.cc/douyu/8475821
+不思异剧场,https://live.ottiptv.cc/douyu/9297412
+小品直播,#genre#
+赵本山专场,https://live.ottiptv.cc/douyu/9817716
+宋小宝专场,https://live.ottiptv.cc/douyu/9817729
+贾玲专场,https://live.ottiptv.cc/douyu/10419541
+许君聪专场,https://live.ottiptv.cc/douyu/10419558
+沈腾马丽专场,https://live.ottiptv.cc/douyu/10153463
+相声听书直播,#genre#
+德云哈啤分社,https://live.ottiptv.cc/huya/26631018
+小饭事件薄,https://live.ottiptv.cc/huya/20985830
+荒野有声书,https://live.ottiptv.cc/douyu/10650322
+龙楼宝殿,https://live.ottiptv.cc/douyu/7422897
+解说直播,#genre#
+来呀官人V,https://live.ottiptv.cc/douyu/9986305
+阿斗归来了,https://live.ottiptv.cc/huya/13303478
+芮橙说剧,https://live.ottiptv.cc/huya/30287258
+狗哥吃火锅,https://live.ottiptv.cc/huya/21059624
+扁豆看电影,https://live.ottiptv.cc/huya/16028551
+君陌观影,https://live.ottiptv.cc/huya/29420446
+电影狂人A,https://live.ottiptv.cc/huya/18715610
+救赎电影,https://live.ottiptv.cc/huya/29833341
+力哥影视,https://live.ottiptv.cc/huya/23419131
+小丑讲电影,https://live.ottiptv.cc/huya/16857432
+吾聊电影,https://live.ottiptv.cc/huya/16424416
+良少聊漫威,https://live.ottiptv.cc/huya/25523725
+老巴电影,https://live.ottiptv.cc/huya/29340502
+电影最TOP,https://live.ottiptv.cc/huya/11774959
+S哥影视,https://live.ottiptv.cc/huya/24720260
+硬汉影探,https://live.ottiptv.cc/huya/24614407
+影小渔,https://live.ottiptv.cc/huya/30296971
+斌哥漫说,https://live.ottiptv.cc/huya/18632116
+南西视频,https://live.ottiptv.cc/huya/16913382
+大象放映室,https://live.ottiptv.cc/huya/21277391
+阿良说美剧,https://live.ottiptv.cc/huya/20488841
+止戈电影,https://live.ottiptv.cc/huya/19863777
+小丑电影,https://live.ottiptv.cc/huya/29869799
+埋堆堆港剧直播,#genre#
+楚汉骄雄,https://live.ottiptv.cc/huya/29465854
+封神榜,https://live.ottiptv.cc/huya/29465849
+天地争霸美猴王,https://live.ottiptv.cc/huya/29465859
+大唐双龙传,https://live.ottiptv.cc/huya/29465850
+刑事侦缉档案,https://live.ottiptv.cc/huya/29465856
+洗冤录,https://live.ottiptv.cc/huya/29465851
+陀枪师姐,https://live.ottiptv.cc/huya/29465857
+扫黄先锋,https://live.ottiptv.cc/huya/29465855
+妙手仁心,https://live.ottiptv.cc/huya/29465853
+野蛮亲家,https://live.ottiptv.cc/huya/23863796
+笑看风云,https://live.ottiptv.cc/huya/29465858
+韦小宝,https://live.ottiptv.cc/huya/23650774
+港版西游记,https://live.ottiptv.cc/huya/29465860
+雪山飞狐,https://live.ottiptv.cc/huya/23734176
+瑜伽直播,#genre#
+你的瑜伽女孩,https://live.ottiptv.cc/douyu/10205199
+财帛何人在,https://live.ottiptv.cc/huya/30901478
+我最最最好看,https://live.ottiptv.cc/huya/30806102
+冬天萌萌,https://live.ottiptv.cc/huya/30805945
+为臣不让于师,https://live.ottiptv.cc/huya/31063699
+桃子味小巫女,https://live.ottiptv.cc/huya/31031541
+花花努力健身中,https://live.ottiptv.cc/huya/30805993
+车模模特直播,#genre#
+爱吃桃子的喵,https://live.ottiptv.cc/huya/18501378
+赵本删不删,https://live.ottiptv.cc/douyu/9837104
+车模颜值大赏,https://live.ottiptv.cc/douyu/10118209
+北京影帝的分身,https://live.ottiptv.cc/douyu/9805480
+女团舞蹈直播,#genre#
+女团社颜老师,https://live.ottiptv.cc/douyu/11327316
+7师傅,https://live.ottiptv.cc/douyu/17732
+彼岸零可星球,https://live.ottiptv.cc/douyu/40471
+崔然竣舞台天才,https://live.ottiptv.cc/douyu/113158
+睡丝虫,https://live.ottiptv.cc/douyu/10308234
+崔杋圭五颜一,https://live.ottiptv.cc/douyu/8189873
+顾止最爱的小胖宝贝,https://live.ottiptv.cc/douyu/238643
+少打白骨精,https://live.ottiptv.cc/douyu/11531165
+爱爱小s,https://live.ottiptv.cc/douyu/10308312
+沙雕动画直播,#genre#
+小小天才搞笑视频,https://live.ottiptv.cc/douyu/9419678
+冰糖葫芦没放盐V,https://live.ottiptv.cc/douyu/3505453
+动画大师姐,https://live.ottiptv.cc/douyu/9742136
+立秋动画,https://live.ottiptv.cc/douyu/10351891
+天才大熊猫啊,https://live.ottiptv.cc/douyu/10646699
+长庚旧梦,https://live.ottiptv.cc/douyu/11288935
+绘说篮球C,https://live.ottiptv.cc/douyu/9401305
+微笑和苦瓜,https://live.ottiptv.cc/huya/28213261
+熊孩子沙雕动画,https://live.ottiptv.cc/huya/25243852
+悸动,https://live.ottiptv.cc/huya/28272846
+歪歪直播,#genre#
+娱乐抢先看,https://cdn-3.ttvb.eu.org/yy/1509085223 
+火影剧场,https://cdn-3.ttvb.eu.org/yy/14596751538
+好声音991,https://cdn-3.ttvb.eu.org/yy/991
+燃舞993,https://cdn-3.ttvb.eu.org/yy/993
+荒野一哥,https://cdn-3.ttvb.eu.org/yy/1355244170
+灌篮高手,https://cdn-3.ttvb.eu.org/yy/514674
+摩托越野,https://cdn-3.ttvb.eu.org/yy/1354946983
+侏罗纪世界,https://cdn-3.ttvb.eu.org/yy/1382736851
+36体育,https://cdn-3.ttvb.eu.org/yy/36
+yy电影,#genre#
+24官频陪你一起看,https://live.ottiptv.cc/yy/1351186084
+ 晾剑 电视剧,https://live.ottiptv.cc/yy/1451866697
+ 武林外传,https://live.ottiptv.cc/yy/1355652820
+ 经典鬼片3000部,https://live.ottiptv.cc/yy/29460894
+ 喨剑,https://live.ottiptv.cc/yy/1355076627
+ 铁齿铜牙纪晓岚,https://live.ottiptv.cc/yy/1354143978
+ 【狂飙2老默】首播,https://live.ottiptv.cc/yy/1354790484
+ 港片 喜剧 动作,https://live.ottiptv.cc/yy/1355480591
+ 【新三国】萌儿陪看,https://live.ottiptv.cc/yy/29216766
+ 林正英-经典电影,https://live.ottiptv.cc/yy/34229877
+ 举起手来-惊险抗日,https://live.ottiptv.cc/yy/1382736877
+ 【战狼3吴京】独播,https://live.ottiptv.cc/yy/37999586
+ 绝版电影 港片女鬼,https://live.ottiptv.cc/yy/1455988450
+ 济公,https://live.ottiptv.cc/yy/1355265814
+ 【周星驰】搞笑电影,https://live.ottiptv.cc/yy/38670875
+ 绝版电影 港片女鬼,https://live.ottiptv.cc/yy/1461579859
+ 少年包青天,https://live.ottiptv.cc/yy/1356043677
+ 雪中悍刀行,https://live.ottiptv.cc/yy/1462996362
+ 雍正王朝,https://live.ottiptv.cc/yy/1356043620
+ 狄仁杰等你哦,https://live.ottiptv.cc/yy/1457579747
+ 纪晓岚,https://live.ottiptv.cc/yy/1352227227
+ 封神榜,https://live.ottiptv.cc/yy/1353426319
+ 【鹿鼎记】金庸经典,https://live.ottiptv.cc/yy/28265277
+ 林正英 僵尸 鬼片,https://live.ottiptv.cc/yy/1351505899
+ 动漫,https://live.ottiptv.cc/yy/26664495
+ 赵本山《超清版》,https://live.ottiptv.cc/yy/1382683959
+ 隋唐英雄传,https://live.ottiptv.cc/yy/1352475619
+ 康熙微服私访记,https://live.ottiptv.cc/yy/1352811698
+ 神医喜来乐,https://live.ottiptv.cc/yy/1382714119
+ 111,https://live.ottiptv.cc/yy/1382571192
+ 弹幕天团 下饭神剧,https://live.ottiptv.cc/yy/23512910
+ 勇敢的心 ~24经典好剧,https://live.ottiptv.cc/yy/1354744544
+ 燕双鹰,https://live.ottiptv.cc/yy/1354143942
+ 李连杰功夫 经典武侠,https://live.ottiptv.cc/yy/74613175
+ 鹿鼎记-周星驰版,https://live.ottiptv.cc/yy/1354658049
+ 天龙八部,https://live.ottiptv.cc/yy/1351814644
+ 豪哥带我们发财,https://live.ottiptv.cc/yy/23402146
+ 火蓝刀锋,https://live.ottiptv.cc/yy/1382737892
+ 神雕侠侣,https://live.ottiptv.cc/yy/1351762426
+ 狄仁杰,https://live.ottiptv.cc/yy/1351755386
+ 【经典抗战剧】,https://live.ottiptv.cc/yy/1354806550
+ 打狗棍  4K超清,https://live.ottiptv.cc/yy/39736069
+ 正阳门下,https://live.ottiptv.cc/yy/1354931580
+ 【经典港片】佟瑶,https://live.ottiptv.cc/yy/23531261
+ 新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
+ 梦梦古装武侠剧,https://live.ottiptv.cc/yy/1382881708
+ 丸子,https://live.ottiptv.cc/yy/1382851588
+ 动漫,https://live.ottiptv.cc/yy/1382747970
+ 宰相刘罗锅,https://live.ottiptv.cc/yy/1382745191
+ 鉴证实录,https://live.ottiptv.cc/yy/1356341389
+ 超精彩武打场景,https://live.ottiptv.cc/yy/1354936131
+ 进来 陪你看动漫,https://live.ottiptv.cc/yy/1352866135
+ 古惑仔,https://live.ottiptv.cc/yy/1458015189
+ 开炮！开炮！开炮！,https://live.ottiptv.cc/yy/1507704566
+ 武林外传,https://live.ottiptv.cc/yy/1454629602
+ 地下交通站,https://live.ottiptv.cc/yy/1382736795
+ 【新三国】蓝光版,https://live.ottiptv.cc/yy/1382705738
+ 纪晓岚,https://live.ottiptv.cc/yy/1382781415
+ 【战狼3吴京】首播,https://live.ottiptv.cc/yy/1456668939
+ 恐怖电影,https://live.ottiptv.cc/yy/24066336
+ 赵本山《蓝光版》,https://live.ottiptv.cc/yy/32160832
+ 好先生,https://live.ottiptv.cc/yy/79382500
+ 知否知否应是绿肥红瘦,https://live.ottiptv.cc/yy/21881901
+ 倚天屠龙记 超清,https://live.ottiptv.cc/yy/1354755003
+ 我的兄弟叫顺溜,https://live.ottiptv.cc/yy/1459331991
+ 绝版鬼片,https://live.ottiptv.cc/yy/1460889796
+ 少年包青天1~3蓝光版,https://live.ottiptv.cc/yy/38498680
+ 宰相刘罗锅,https://live.ottiptv.cc/yy/1353892468
+ 雯子：港剧TVB,https://live.ottiptv.cc/yy/1456829119
+ 24H地下交通站全,https://live.ottiptv.cc/yy/37880083
+ 港片电影,https://live.ottiptv.cc/yy/1459801818
+ 赌神 港片 喜剧,https://live.ottiptv.cc/yy/1355112116
+ 【战狼4】吴京老师,https://live.ottiptv.cc/yy/1354784284
+ 鹊刀门,https://live.ottiptv.cc/yy/1355344777
+ 83射雕英雄传,https://live.ottiptv.cc/yy/1354210357
+ 丫头动漫 斗罗斗破,https://live.ottiptv.cc/yy/1458722520
+ 鹿鼎记-高清全集,https://live.ottiptv.cc/yy/1382704650
+ 疯狂动漫 正在直播,https://live.ottiptv.cc/yy/1353937086
+ 喨剑电视剧,https://live.ottiptv.cc/yy/1453810838
+ 火凤凰之战狼七,https://live.ottiptv.cc/yy/1463088777
+ 神探狄仁杰,https://live.ottiptv.cc/yy/38338029
+ 封神英雄榜,https://live.ottiptv.cc/yy/1508358696
+ 真实案件系列,https://live.ottiptv.cc/yy/1382671124
+ 国漫 一起看正在直播,https://live.ottiptv.cc/yy/1351417866
+ f封神榜,https://live.ottiptv.cc/yy/1382797534
+ 【成龙经典】动作,https://live.ottiptv.cc/yy/34460526
+ 经典鬼片,https://live.ottiptv.cc/yy/1508828185
+ 【港片】赌片 动作,https://live.ottiptv.cc/yy/24921161
+ 电影 古惑仔全集,https://live.ottiptv.cc/yy/1354507447
+ 【神雕侠侣】金庸经典,https://live.ottiptv.cc/yy/1382704651
+ 港片电影,https://live.ottiptv.cc/yy/33897188
+ 动漫,https://live.ottiptv.cc/yy/23993334
+ 狂飙,https://live.ottiptv.cc/yy/1355142167
+ 动漫,https://live.ottiptv.cc/yy/22777075
+ 破案港剧,https://live.ottiptv.cc/yy/1350670730
+ 111,https://live.ottiptv.cc/yy/1346966327
+ 大家车言论,https://live.ottiptv.cc/yy/1382570702
+ 24【动漫】正在直播,https://live.ottiptv.cc/yy/1350984033
+ 水浒传,https://live.ottiptv.cc/yy/1353873252
+ 燕双鹰专场,https://live.ottiptv.cc/yy/23026835
+ 【飞哥全集】乐乐陪看,https://live.ottiptv.cc/yy/1352946111
+ 少年包青天,https://live.ottiptv.cc/yy/1382651363
+ 鬼经典老片,https://live.ottiptv.cc/yy/1463783198
+ 绝版鬼片港片贼好看,https://live.ottiptv.cc/yy/1454732419
+ 情满四合院,https://live.ottiptv.cc/yy/1382851524
+ 8090年的热血与回忆,https://live.ottiptv.cc/yy/1356243352
+ 倚天屠龙记,https://live.ottiptv.cc/yy/1449856066
+ 动漫,https://live.ottiptv.cc/yy/1354143938
+ 九品芝麻官包龙星,https://live.ottiptv.cc/yy/1354930968
+ 宋小宝小品合集,https://live.ottiptv.cc/yy/1354931577
+ 德爷单挑荒野,https://live.ottiptv.cc/yy/27772604
+ 七色小彩虹,https://live.ottiptv.cc/yy/1382851601
+ 靓剑,https://live.ottiptv.cc/yy/1356043643
+ 我和僵尸有个约会,https://live.ottiptv.cc/yy/1354143966
+ 情满四合院-高分电视剧,https://live.ottiptv.cc/yy/1382735541
+ 《仙侠》开局无敌了,https://live.ottiptv.cc/yy/29600150
+ 国内侦探电影大全,https://live.ottiptv.cc/yy/1354936134
+ 速度与激情系列！-精彩大片,https://live.ottiptv.cc/yy/1382736911
+ 小宝 天龙 神雕金庸,https://live.ottiptv.cc/yy/1356043609
+ 寻秦记-穿越剧经典,https://live.ottiptv.cc/yy/1382749900
+ 神探狄仁杰1,https://live.ottiptv.cc/yy/1382851575
+ 士兵突击,https://live.ottiptv.cc/yy/1382851600
+ 经典港片动作搞笑,https://live.ottiptv.cc/yy/1459869766
+ 欢乐集结号-每天笑不停,https://live.ottiptv.cc/yy/1382741642
+ 24h 我爱我家 纯音频,https://live.ottiptv.cc/yy/1356212303
+ 恋歌,https://live.ottiptv.cc/yy/1382851594
+ 距离你500米,https://live.ottiptv.cc/yy/1354821987
+ 24h少年包青天,https://live.ottiptv.cc/yy/1382701828
+ 郝蕾演绎-情满四合院,https://live.ottiptv.cc/yy/1382745089
+ 许多多,https://live.ottiptv.cc/yy/1382851583
+ 24H盗幕笔记,https://live.ottiptv.cc/yy/1355171231
+ 神探狄仁杰1,https://live.ottiptv.cc/yy/1354930934
+ 炊事班的故事III,https://live.ottiptv.cc/yy/1382736716
+ 经典大片合集,https://live.ottiptv.cc/yy/1382749895
+ 电影电影电影电影电影电影,https://live.ottiptv.cc/yy/1351496216
+ 《武林外传》武侠,https://live.ottiptv.cc/yy/1394000563
+ 破案剧,https://live.ottiptv.cc/yy/1356158015
+ 小太阳 正在直播,https://live.ottiptv.cc/yy/29067083
+ 谢文东第五部,https://live.ottiptv.cc/yy/24486495
+ 进来 陪你看电视,https://live.ottiptv.cc/yy/1353518742
+ 【陪你看】金刚葫芦娃,https://live.ottiptv.cc/yy/1353323999
+ 颜值永远在线,https://live.ottiptv.cc/yy/1382851582
+ 时光的海,https://live.ottiptv.cc/yy/1382851579
+ 惊恐盗暮鬼怪,https://live.ottiptv.cc/yy/1382749525
+ 天龙神雕经典回忆,https://live.ottiptv.cc/yy/68260522
+ 【科幻】超炫特效,https://live.ottiptv.cc/yy/37988782
+ 海派甜心,https://live.ottiptv.cc/yy/1355260662
+ 五号特工组,https://live.ottiptv.cc/yy/1414967772
+ 《石敢当》六耳猕猴,https://live.ottiptv.cc/yy/1394156613
+ 距离你500米,https://live.ottiptv.cc/yy/1354923611
+ [特种兵系列】,https://live.ottiptv.cc/yy/1508456184
+ 经典抗战100部,https://live.ottiptv.cc/yy/1354508622
+ 【盗暮笔记】24h,https://live.ottiptv.cc/yy/1382702247
+ 8090.电影一哥,https://live.ottiptv.cc/yy/29197808
+ 西游记后传 蓝光,https://live.ottiptv.cc/yy/1353392400
+ 玄幻修仙,https://live.ottiptv.cc/yy/1459714870
+ 布丁-玄幻电影正在直播,https://live.ottiptv.cc/yy/1455460998
+ 【案发现场】1-4部全集,https://live.ottiptv.cc/yy/33567888
+ 【动漫】精彩国漫,https://live.ottiptv.cc/yy/28796627
+ 神探狄仁杰1—5部全集,https://live.ottiptv.cc/yy/1382705592
+ 超喜剧地下交通站男神贾贵,https://live.ottiptv.cc/yy/1353428972
+ 林正英电影,https://live.ottiptv.cc/yy/1382841203
+ 电影,https://live.ottiptv.cc/yy/37454459
+ 【港台】鬼片 惊悚 喜剧,https://live.ottiptv.cc/yy/1351030377
+ 动漫,https://live.ottiptv.cc/yy/25055036
+ 【破案 悬疑 港剧】,https://live.ottiptv.cc/yy/1382800083
+ 恐怖诡异墓穴,https://live.ottiptv.cc/yy/1382748585
+ 变形金刚,https://live.ottiptv.cc/yy/1382736803
+ 老妖恐鬼片,https://live.ottiptv.cc/yy/1354952229
+ 燕双鹰,https://live.ottiptv.cc/yy/1352227153
+ 笑声传奇,https://live.ottiptv.cc/yy/1382736880
+ 都挺好-电视剧,https://live.ottiptv.cc/yy/1382736892
+ 父母爱情,https://live.ottiptv.cc/yy/1354926650
+ 星爷经典-百看不厌,https://live.ottiptv.cc/yy/1382736808
+ 大家都在看的电视剧,https://live.ottiptv.cc/yy/1354930964
+ 杭小妞,https://live.ottiptv.cc/yy/1382851590
+ 欢乐颂,https://live.ottiptv.cc/yy/1382735624
+ 小惠_郭德纲相声迷,https://live.ottiptv.cc/yy/1382851593
+ 单挑荒野第一季,https://live.ottiptv.cc/yy/1354933535
+ 欢乐颂,https://live.ottiptv.cc/yy/1382851577
+ 成龙系列,https://live.ottiptv.cc/yy/1354888751
+ 初恋脸,https://live.ottiptv.cc/yy/1382851597
+ 敢死队-精彩动作电影,https://live.ottiptv.cc/yy/1382735573
+ 红楼梦1987经典版,https://live.ottiptv.cc/yy/1382745084
+ 天道-9.2高分好剧,https://live.ottiptv.cc/yy/1382735574
+ 二号交通站,https://live.ottiptv.cc/yy/1382735582
+ 血色浪漫,https://live.ottiptv.cc/yy/1354926676
+ 夏洛特烦恼-国内电影-喜剧,https://live.ottiptv.cc/yy/1354936201
+ 小鱼影视,https://live.ottiptv.cc/yy/1354076248
+ 康熙王朝,https://live.ottiptv.cc/yy/1382736818
+ 大进军全集：红色系列电影,https://live.ottiptv.cc/yy/1382745083
+ 小兵张嘎,https://live.ottiptv.cc/yy/1354930225
+ 神探狄仁杰2,https://live.ottiptv.cc/yy/1382828767
+ 西游记后传,https://live.ottiptv.cc/yy/1382736846
+ 震撼！国内功夫大片,https://live.ottiptv.cc/yy/1382736902
+ 炊事班的故事II,https://live.ottiptv.cc/yy/1382736885
+ 洪金宝福星系列,https://live.ottiptv.cc/yy/1354924839
+ 国内玄幻电影-林正英,https://live.ottiptv.cc/yy/1354932444
+ 国内高分悬疑剧-风筝,https://live.ottiptv.cc/yy/1354931585
+ 平凡岁月,https://live.ottiptv.cc/yy/1382745117
+ 双月之城-国漫,https://live.ottiptv.cc/yy/1382736907
+ �逋鞠盗�-国产喜剧,https://live.ottiptv.cc/yy/1382736856
+ 魔幻手机,https://live.ottiptv.cc/yy/1382735544
+ 欢乐一起看,https://live.ottiptv.cc/yy/1354930926
+ 搞笑经典电影,https://live.ottiptv.cc/yy/1351537467
+ 纯纯纯儿,https://live.ottiptv.cc/yy/1382851589
+ 读心神探,https://live.ottiptv.cc/yy/1382736875
+ 风筝,https://live.ottiptv.cc/yy/1382828770
+ 华子系列,https://live.ottiptv.cc/yy/1354888726
+ 父母爱情,https://live.ottiptv.cc/yy/1382746276
+ 港片鬼片老电影,https://live.ottiptv.cc/yy/1355269576
+ 暖暖1999,https://live.ottiptv.cc/yy/1382851591
+ 彭禺厶鬼怪奇幻系列电影,https://live.ottiptv.cc/yy/1355249116
+ 精彩动漫,https://live.ottiptv.cc/yy/1420843376
+ 法证先锋,https://live.ottiptv.cc/yy/1354930939
+ 金婚,https://live.ottiptv.cc/yy/1382736832
+ 金婚,https://live.ottiptv.cc/yy/1382828768
+ 三国演义【1994】,https://live.ottiptv.cc/yy/1354930932
+ 少年包青天第三部,https://live.ottiptv.cc/yy/1382851540
+ 动漫,https://live.ottiptv.cc/yy/1354768831
+ 倚天屠龙记,https://live.ottiptv.cc/yy/33300793
+ 鬼片.惊悚.港片,https://live.ottiptv.cc/yy/1355497884
+ 24h小时最玄幻 玄幻剧,https://live.ottiptv.cc/yy/1355171357
+ 少年歌行,https://live.ottiptv.cc/yy/1450556636
+ 影视剧场,https://live.ottiptv.cc/yy/1355260855
+ 【电影】顶级动作电影,https://live.ottiptv.cc/yy/24923327
+ 战狼7吴京退役,https://live.ottiptv.cc/yy/1382773714
+ 【新三国】吕布,https://live.ottiptv.cc/yy/1382851459
+ 紫霞仙子被揍了,https://live.ottiptv.cc/yy/1382656234
+ 花千骨,https://live.ottiptv.cc/yy/1354943110
+ 新主播，求照顾,https://live.ottiptv.cc/yy/1382690406
+ 周星驰喜剧武侠恐怖好看,https://live.ottiptv.cc/yy/29945997
+ 父母的爱情,https://live.ottiptv.cc/yy/1382768483
+ 【靓剑】超清版,https://live.ottiptv.cc/yy/30668277
+ 狂飙,https://live.ottiptv.cc/yy/1382754187
+ 你来,https://live.ottiptv.cc/yy/25444932
+ 雪中悍刀行,https://live.ottiptv.cc/yy/1382660835
+ 正阳门下 正在直播,https://live.ottiptv.cc/yy/1453059740
+ 奇缘港台影院,https://live.ottiptv.cc/yy/1354889234
+ 小甜甜    喨剑,https://live.ottiptv.cc/yy/1382658790
+ 唐朝诡事录好24h,https://live.ottiptv.cc/yy/1353913646
+ 军旅剧（回忆经典）,https://live.ottiptv.cc/yy/1356306672
+ 电影百团大战,https://live.ottiptv.cc/yy/1382736871
+ 热血抗日电影,https://live.ottiptv.cc/yy/1382749907
+ 赌神-发哥,https://live.ottiptv.cc/yy/1354889044
+ 泡芙陪你看电影,https://live.ottiptv.cc/yy/24407222
+ 请回答1988,https://live.ottiptv.cc/yy/1354932362
+ 陈情令,https://live.ottiptv.cc/yy/1382745121
+ 新白娘子传奇-女神赵雅芝,https://live.ottiptv.cc/yy/1354930969
+ 十大经典港剧之《大时代》,https://live.ottiptv.cc/yy/1354930891
+ 欢乐集结号,https://live.ottiptv.cc/yy/1382735550
+ 最后的狮子-探险纪录片,https://live.ottiptv.cc/yy/1382735577
+ 小欢喜,https://live.ottiptv.cc/yy/1382737888
+ 穿越时空的爱恋,https://live.ottiptv.cc/yy/1382735567
+ 金星脱口秀-爆笑回归,https://live.ottiptv.cc/yy/1382749951
+ 亲爱的热爱的,https://live.ottiptv.cc/yy/1354932433
+ 西游记张卫健版,https://live.ottiptv.cc/yy/1354936155
+ 速度与激情全集,https://live.ottiptv.cc/yy/1382749892
+ 澳门风云,https://live.ottiptv.cc/yy/1459243913
+ 国内喜剧,https://live.ottiptv.cc/yy/1382736862
+ 憨豆先生-经典喜剧,https://live.ottiptv.cc/yy/1354936239
+ 笑傲江湖,https://live.ottiptv.cc/yy/1354930909
+ 宫锁珠帘,https://live.ottiptv.cc/yy/1354926666
+ 三国演义94年经典版,https://live.ottiptv.cc/yy/1354936241
+ 欢乐集结号2,https://live.ottiptv.cc/yy/1354930919
+ 黑冰,https://live.ottiptv.cc/yy/1354932427
+ 少年四大名捕,https://live.ottiptv.cc/yy/1354936203
+ 宋小宝春晚小品合集,https://live.ottiptv.cc/yy/1382736866
+ 野山鹰-影视剧,https://live.ottiptv.cc/yy/1354932395
+ 木乃伊全集,https://live.ottiptv.cc/yy/1354889024
+ 侏罗纪世界-国外科幻大片合集,https://live.ottiptv.cc/yy/1382736851
+ 24小时陪你看,https://live.ottiptv.cc/yy/1331686180
+ 电视剧-流金岁月,https://live.ottiptv.cc/yy/1382749906
+ 探秘中华美食,https://live.ottiptv.cc/yy/1354930954
+ 熊出没之探险日记S1-国漫,https://live.ottiptv.cc/yy/1354930977
+ 蔡明春晚小品,https://live.ottiptv.cc/yy/1354936177
+ 中国味道 第4季-美食纪录片,https://live.ottiptv.cc/yy/1382736845
+ 非诚勿扰,https://live.ottiptv.cc/yy/1382735583
+ 炊事班的故事,https://live.ottiptv.cc/yy/1382749901
+ 二号交通站,https://live.ottiptv.cc/yy/1354930965
+ 宝莲灯前传,https://live.ottiptv.cc/yy/1354931631
+ 福贵,https://live.ottiptv.cc/yy/1354926537
+ 另类民兵葛二蛋,https://live.ottiptv.cc/yy/1382736895
+ 动物世界,https://live.ottiptv.cc/yy/1382749889
+ 晨晨的影视小窝,https://live.ottiptv.cc/yy/1382851576
+ 活力满满,https://live.ottiptv.cc/yy/1382851585
+ 银河护卫队-国外科幻巨作,https://live.ottiptv.cc/yy/1382736815
+ 叶问全集,https://live.ottiptv.cc/yy/1382828771
+ 新白娘子4K高清观看,https://live.ottiptv.cc/yy/1508902755
+ 院线动作大片,https://live.ottiptv.cc/yy/1382736900
+ 007系列动作大片,https://live.ottiptv.cc/yy/1382736897
+ 密子君,https://live.ottiptv.cc/yy/1382736717
+ 经典抗日电影,https://live.ottiptv.cc/yy/1354936141
+ 小沈阳春晚小品,https://live.ottiptv.cc/yy/1382749941
+ 士兵突击,https://live.ottiptv.cc/yy/1382828766
+ 甜甜的恋爱 这狗粮我吃了,https://live.ottiptv.cc/yy/1354932438
+ 新世界,https://live.ottiptv.cc/yy/1382736850
+ 仙剑奇侠传-神仙姐姐驾到,https://live.ottiptv.cc/yy/1382749903
+ 黄大妮-电视剧,https://live.ottiptv.cc/yy/1354930904
+ 笑傲帮,https://live.ottiptv.cc/yy/1382735555
+ 你是最美的风景,https://live.ottiptv.cc/yy/1382851599
+ 欢天喜地七仙女,https://live.ottiptv.cc/yy/1382735553
+ 第8号当铺,https://live.ottiptv.cc/yy/1382736905
+ 大汉贤后卫子夫,https://live.ottiptv.cc/yy/1382735569
+ 【终极笔记】,https://live.ottiptv.cc/yy/1353215589
+ 女医明妃传,https://live.ottiptv.cc/yy/1382736861
+ 张国荣与周润发的兄弟情,https://live.ottiptv.cc/yy/1354930961
+ 施公奇案1-欧阳震华,https://live.ottiptv.cc/yy/1382749918
+ 法证先锋2,https://live.ottiptv.cc/yy/1382736870
+ 贾玲春晚小品,https://live.ottiptv.cc/yy/1382736720
+ 第一滴血全集,https://live.ottiptv.cc/yy/1354932355
+ 深海利剑,https://live.ottiptv.cc/yy/1382736906
+ 金星脱口秀：我敢说你敢听吗,https://live.ottiptv.cc/yy/1382735552
+ 吐槽大会 第2季,https://live.ottiptv.cc/yy/1354936145
+ 国内喜剧,https://live.ottiptv.cc/yy/1382735563
+ 本山快乐营1,https://live.ottiptv.cc/yy/1354936209
+ 我爱我家,https://live.ottiptv.cc/yy/1382735557
+ 国外动作大片-夺宝奇兵1-4,https://live.ottiptv.cc/yy/1382736833
+ 大江大河2-高分影视推荐,https://live.ottiptv.cc/yy/1382736797
+ 舌尖上的中国第2季,https://live.ottiptv.cc/yy/1354930943
+ 少年包青天第三部,https://live.ottiptv.cc/yy/1382736814
+ 精彩动作电影享不停,https://live.ottiptv.cc/yy/1382736809
+ 传奇英雄,https://live.ottiptv.cc/yy/1382735578
+ 香港院线大片-最新,https://live.ottiptv.cc/yy/1354936242
+ 风靡全球的谍战片,https://live.ottiptv.cc/yy/1382736817
+ 小戏骨黄飞鸿-国内动作片,https://live.ottiptv.cc/yy/1354936181
+ 欢乐集结号,https://live.ottiptv.cc/yy/1354931582
+ 易中天品三国,https://live.ottiptv.cc/yy/1354931498
+ 科幻惊悚片-异形,https://live.ottiptv.cc/yy/1382735543
+ 今夜欢乐颂,https://live.ottiptv.cc/yy/1382735572
+ 金牌配角达叔系列,https://live.ottiptv.cc/yy/1354888728
+ 萌萌爱追剧,https://live.ottiptv.cc/yy/1382745093
+ 美国队长史蒂夫,https://live.ottiptv.cc/yy/1382736813
+ 了不起的萝莉小玲,https://live.ottiptv.cc/yy/1382736799
+ 伪装者,https://live.ottiptv.cc/yy/1354936244
+ 小宝让你乐翻天：6到9集,https://live.ottiptv.cc/yy/1354930971
+ 你最爱的宋小宝,https://live.ottiptv.cc/yy/1354936198
+ 永远的经典系列,https://live.ottiptv.cc/yy/1354930204
+ 心中的白月光,https://live.ottiptv.cc/yy/1382851580
+ 我的前半生,https://live.ottiptv.cc/yy/1382735564
+ 流金岁月-经典港剧,https://live.ottiptv.cc/yy/1382736891
+ 神探狄仁杰2,https://live.ottiptv.cc/yy/1382851146
+ 吐槽大会 第5季,https://live.ottiptv.cc/yy/1354889009
+ 情满四合院,https://live.ottiptv.cc/yy/1382736848
+ 开心小泡芙,https://live.ottiptv.cc/yy/1382851578
+ 超激烈的猎食场面,https://live.ottiptv.cc/yy/1382749898
+ 热血动作电影,https://live.ottiptv.cc/yy/1382736804
+ 生逢灿烂的日子,https://live.ottiptv.cc/yy/1382745085
+ 小敏,https://live.ottiptv.cc/yy/1382736890
+ 魔幻手机,https://live.ottiptv.cc/yy/1382851541
+ 我的体育老师,https://live.ottiptv.cc/yy/1382745169
+ 我的父亲我的兵,https://live.ottiptv.cc/yy/1353413714
+ 复仇者联盟全季,https://live.ottiptv.cc/yy/1354936167
+ 田园生活,https://live.ottiptv.cc/yy/1382736898
+ 北京爱情故事，心动不打烊,https://live.ottiptv.cc/yy/1382744423
+ 大话西游至尊宝,https://live.ottiptv.cc/yy/1382736910
+ 天下第一,https://live.ottiptv.cc/yy/1382736838
+ 小小飞虎队,https://live.ottiptv.cc/yy/1382749888
+ 上海滩,https://live.ottiptv.cc/yy/1382745184
+ 迷,https://live.ottiptv.cc/yy/1382736719
+ 华矩小九er 电 正在直播,https://live.ottiptv.cc/yy/1354690927
+ 农家小菜,https://live.ottiptv.cc/yy/1382736894
+ 真心想让你幸福,https://live.ottiptv.cc/yy/1382736876
+ 漫画解说,https://live.ottiptv.cc/yy/1382735568
+ 最美的青春,https://live.ottiptv.cc/yy/1382745116
+ 超精彩！系列动作电影,https://live.ottiptv.cc/yy/1382745096
+ 爆笑小品大合集,https://live.ottiptv.cc/yy/1382736821
+ 忠烈杨家将,https://live.ottiptv.cc/yy/1382749909
+ 高分科幻动作片,https://live.ottiptv.cc/yy/1382749948
+ 热门喜剧,https://live.ottiptv.cc/yy/1354931495
+ 欢乐集结号3,https://live.ottiptv.cc/yy/1382736822
+ 超燃科幻大片：明日边缘,https://live.ottiptv.cc/yy/1382736835
+ 叛逆者,https://live.ottiptv.cc/yy/1382736868
+ 国外科幻大作合集,https://live.ottiptv.cc/yy/1382736836
+ 妖神记,https://live.ottiptv.cc/yy/1382745171
+ 探案！探案！,https://live.ottiptv.cc/yy/1382829413
+ 温柔好声音 给你停靠港,https://live.ottiptv.cc/yy/1349538007
+ 大汉天子S1,https://live.ottiptv.cc/yy/1382749902
+ 法证先锋Ⅱ,https://live.ottiptv.cc/yy/1354888736
+ 编辑部的故事,https://live.ottiptv.cc/yy/1354936120
+ 大江大河-高分影视推荐,https://live.ottiptv.cc/yy/1382736806
+ 双喜电影,https://live.ottiptv.cc/yy/25519088
+ 科幻电影,https://live.ottiptv.cc/yy/1354930209
+ 粟裕大将-影视,https://live.ottiptv.cc/yy/1354926542
+ 来自星星的你,https://live.ottiptv.cc/yy/1354930976
+ 粉红女郎,https://live.ottiptv.cc/yy/1354888671
+ TVB收视爆剧-溏心风暴,https://live.ottiptv.cc/yy/1382736916
+ 无敌县令,https://live.ottiptv.cc/yy/1354932390
+ 强悍“杀猪婆”的励志人生,https://live.ottiptv.cc/yy/1354658062
+ 炊事班的故事1-2,https://live.ottiptv.cc/yy/1382736886
+ 最美的青春,https://live.ottiptv.cc/yy/1382851530
+ 国外科幻,https://live.ottiptv.cc/yy/1382736800
+ 百家讲坛――之明太祖朱元璋,https://live.ottiptv.cc/yy/1354936149
+ 笑傲江湖-电视剧,https://live.ottiptv.cc/yy/1354936128
+ 超燃警匪片,https://live.ottiptv.cc/yy/1382735576
+ 侏罗纪公园三部曲,https://live.ottiptv.cc/yy/1354936191
+ 鬼片、港片3000部,https://live.ottiptv.cc/yy/1335509613
+ 科幻片：来看神奇的地球,https://live.ottiptv.cc/yy/1354930897
+ 热血战争巨作,https://live.ottiptv.cc/yy/1382745087
+ 今晚80后脱口秀,https://live.ottiptv.cc/yy/1382745098
+ 漫威十年老粉福利来了,https://live.ottiptv.cc/yy/1354930233
+ 珍珠港-电影,https://live.ottiptv.cc/yy/1354936234
+ 法证先锋Ⅲ,https://live.ottiptv.cc/yy/1382736802
+ 人生必看的科幻片,https://live.ottiptv.cc/yy/1382745114
+ 河山,https://live.ottiptv.cc/yy/1382749952
+ 机械战警1-3,https://live.ottiptv.cc/yy/1382736854
+ 苦乐村官,https://live.ottiptv.cc/yy/1382736864
+ 小生物的故事,https://live.ottiptv.cc/yy/1382736834
+ 本山快乐营,https://live.ottiptv.cc/yy/1354933529
+ 【新三国】日版,https://live.ottiptv.cc/yy/1382851457
+ 美国惊险动作大片-饥饿游戏全季,https://live.ottiptv.cc/yy/1354932365
+ 聊斋志异S1,https://live.ottiptv.cc/yy/1382736975
+ 小鬼当家-童年回忆,https://live.ottiptv.cc/yy/1382745104
+ 施公奇案2-欧阳震华,https://live.ottiptv.cc/yy/1382736824
+ 大明王朝,https://live.ottiptv.cc/yy/1382736879
+ 原始人大挑战,https://live.ottiptv.cc/yy/1382736884
+ 发哥系列,https://live.ottiptv.cc/yy/1354888733
+ 【科幻电影】,https://live.ottiptv.cc/yy/1355065896
+ 【电视剧】天下第一,https://live.ottiptv.cc/yy/1354780649
+ 金星脱口秀,https://live.ottiptv.cc/yy/1354931503
+ 巩汉林春晚小品合集,https://live.ottiptv.cc/yy/1354889035
+ 渴望,https://live.ottiptv.cc/yy/1354930963
+ 国产大片电影,https://live.ottiptv.cc/yy/1354926655
+ 百万巨鳄-好看的喜剧片合集,https://live.ottiptv.cc/yy/1354930945
+ 学生兵,https://live.ottiptv.cc/yy/1354658003
+ 国漫动漫,https://live.ottiptv.cc/yy/1354768828
+ 国外院线动作大片,https://live.ottiptv.cc/yy/1382735570
+ 宫心计-港剧-古装,https://live.ottiptv.cc/yy/1354933540
+ 俺娘田小草,https://live.ottiptv.cc/yy/1382741638
+ 非诚勿扰,https://live.ottiptv.cc/yy/1382745100
+ 情满四合院,https://live.ottiptv.cc/yy/1382736888
+ 岳云鹏宋小宝也来演电影了？,https://live.ottiptv.cc/yy/1354926612
+ 法外风云,https://live.ottiptv.cc/yy/1382736805
+ 老卓电影,https://live.ottiptv.cc/yy/1354770516
+ 欢乐饭米粒儿，笑点密集来袭,https://live.ottiptv.cc/yy/1382736798
+ 飞虎之潜行极战,https://live.ottiptv.cc/yy/1354932420
+ 名媛望族-精彩港剧,https://live.ottiptv.cc/yy/1354932431
+ 加勒比海盗系列,https://live.ottiptv.cc/yy/1382749914
+ 海王-院线大片,https://live.ottiptv.cc/yy/1354936142
+ 国内动作大片,https://live.ottiptv.cc/yy/1382745176
+ 国内动作大片,https://live.ottiptv.cc/yy/1382749917
+ 末日系列-外国电影合集,https://live.ottiptv.cc/yy/1354889019
+ 猩球崛起-怪兽片合集,https://live.ottiptv.cc/yy/1354930181
+ 宫心计,https://live.ottiptv.cc/yy/1382828769
+ 飓风营救,https://live.ottiptv.cc/yy/1382735547
+ 宫心计,https://live.ottiptv.cc/yy/1354932429
+ 灌篮高手,https://live.ottiptv.cc/yy/1382735626
+ 超英集结,https://live.ottiptv.cc/yy/1382745091
+ 十亿少女的噩梦,https://live.ottiptv.cc/yy/1354921392
+ 燃爆动作片,https://live.ottiptv.cc/yy/1382736801
+ 风味原产地潮汕,https://live.ottiptv.cc/yy/1382745178
+ X战警系列-国外科幻片,https://live.ottiptv.cc/yy/1382735585
+ 金玉满堂：精彩港剧,https://live.ottiptv.cc/yy/1382736881
+ 这个杀手不太冷-国外经典动作片,https://live.ottiptv.cc/yy/1354936122
+ 哈利波特全集,https://live.ottiptv.cc/yy/1382745105
+ 寻秦记,https://live.ottiptv.cc/yy/1354658048
+ 尽享国内精彩战争片,https://live.ottiptv.cc/yy/1382745094
+ 经典动作电影,https://live.ottiptv.cc/yy/1370293254
+ 谈判专家,https://live.ottiptv.cc/yy/1382735560
+ 萌鸡小队S1-国漫,https://live.ottiptv.cc/yy/1382736904
+ 洪大哥系列,https://live.ottiptv.cc/yy/1354888743
+ 24小时循环播电视剧,https://live.ottiptv.cc/yy/53320802
+ 一分钟学道菜,https://live.ottiptv.cc/yy/1382736901
+ 港剧-状王之王,https://live.ottiptv.cc/yy/1382736920
+ 动作大片-热血开打,https://live.ottiptv.cc/yy/1354936168
+ 以家人之名,https://live.ottiptv.cc/yy/1382736908
+ 妖神记之黑狱篇,https://live.ottiptv.cc/yy/1382745173
+ 催泪之作-七号房的礼物,https://live.ottiptv.cc/yy/1382741637
+ 动作大片,https://live.ottiptv.cc/yy/1354888739
+ 小甜甜    终极笔记,https://live.ottiptv.cc/yy/1354689861
+ 老夫少妻搞笑忘年恋,https://live.ottiptv.cc/yy/1354932391
+ 动物世界-领略原始野性,https://live.ottiptv.cc/yy/1382743138
+ 超炫科幻大片,https://live.ottiptv.cc/yy/1382736840
+ 洪金宝福星系列,https://live.ottiptv.cc/yy/1382851602
+ 一剑开天门,https://live.ottiptv.cc/yy/34313906
+ Blingbling,https://live.ottiptv.cc/yy/1382851598
+ 重生之超级赛亚人,https://live.ottiptv.cc/yy/1354936124
+ 港片—两公婆八条心,https://live.ottiptv.cc/yy/1382736917
+ 老广的味道 第3季-美食纪录片,https://live.ottiptv.cc/yy/1382735565
+ 国外高分大片,https://live.ottiptv.cc/yy/1382736867
+ 舌尖上的中国第一季,https://live.ottiptv.cc/yy/1354930952
+ 空谷幽兰,https://live.ottiptv.cc/yy/1382745182
+ 本山快乐营,https://live.ottiptv.cc/yy/1382736852
+ 闲暇观看综艺,https://live.ottiptv.cc/yy/1354932379
+ 经典影视,https://live.ottiptv.cc/yy/1414974362
+ 【武林客栈】,https://live.ottiptv.cc/yy/1382773728
+ 国外动作大片,https://live.ottiptv.cc/yy/1382735540
+ 黑衣人1、2—动作喜剧大片,https://live.ottiptv.cc/yy/1354930936
+ 百家讲坛-红楼梦篇,https://live.ottiptv.cc/yy/1382741639
+ 惊险刺激！国内最新战争大片,https://live.ottiptv.cc/yy/1382745189
+ 欢乐集结号4,https://live.ottiptv.cc/yy/1382736889
+ 娘亲舅大,https://live.ottiptv.cc/yy/1354932360
+ 笑傲江湖 第2季,https://live.ottiptv.cc/yy/1382736914
+ 公主嫁到,https://live.ottiptv.cc/yy/1382736915
+ 非诚勿扰,https://live.ottiptv.cc/yy/1382745106
+ 经典电影重温,https://live.ottiptv.cc/yy/1382793140
+ 大汉天子S2,https://live.ottiptv.cc/yy/1382736807
+ 经典港剧-潮拜武当,https://live.ottiptv.cc/yy/1354930967
+ 精彩动作电影,https://live.ottiptv.cc/yy/1382736823
+ 国外黑色喜剧：冷幽默小剧场,https://live.ottiptv.cc/yy/1382745175
+ 不用加班真开心,https://live.ottiptv.cc/yy/1354930924
+ 小米粒Mili,https://live.ottiptv.cc/yy/1382736842
+ 怡园区电影,https://live.ottiptv.cc/yy/1356341850
+ 国产喜剧,https://live.ottiptv.cc/yy/1382735584
+ 犬夜叉，半妖四魂之玉之路,https://live.ottiptv.cc/yy/1509038705
+ 大唐双龙传,https://live.ottiptv.cc/yy/1354930979
+ 丫鬟大联盟！笑个不停,https://live.ottiptv.cc/yy/1382749913
+ 本山快乐营-爆笑小品,https://live.ottiptv.cc/yy/1354930948
+ 致敬星爷致敬经典,https://live.ottiptv.cc/yy/1354889048
+ 蜘蛛侠-院线大片,https://live.ottiptv.cc/yy/1354926671
+ 国内经典动作电影,https://live.ottiptv.cc/yy/1382851522
+ 体验另一种生活！,https://live.ottiptv.cc/yy/1354936229
+ 笑傲江湖 第1季,https://live.ottiptv.cc/yy/1382749896
+ 白鹿原-国内经典战争片,https://live.ottiptv.cc/yy/1354931488
+ 一起来笑吧,https://live.ottiptv.cc/yy/1454859415
+ 你爱看的抗日大片,https://live.ottiptv.cc/yy/1354936160
+ 赵本山爆笑小品2,https://live.ottiptv.cc/yy/1354936217
+ 来看修牛蹄,https://live.ottiptv.cc/yy/1382749887
+ 回家的诱惑,https://live.ottiptv.cc/yy/1354658043
+ 国产家庭电视剧-如果岁月可回头,https://live.ottiptv.cc/yy/1382736883
+ 高分动作大片-热血出击,https://live.ottiptv.cc/yy/1382736909
+ 百家讲坛-之女皇武则天,https://live.ottiptv.cc/yy/1354889015
+ 超级英雄系列电影,https://live.ottiptv.cc/yy/1382736863
+ 国内战争电影,https://live.ottiptv.cc/yy/1382736865
+ 万里走单骑-解密世界遗产的互动综艺,https://live.ottiptv.cc/yy/1382736853
+ 王朝-自然-纪录片,https://live.ottiptv.cc/yy/1354930927
+ 当旺爸爸-港剧,https://live.ottiptv.cc/yy/1354936208
+ 漫威超级英雄系列,https://live.ottiptv.cc/yy/1354932402
+ 惊悚，恐怖欢迎点播,https://live.ottiptv.cc/yy/67857780
+ 外国科幻大片,https://live.ottiptv.cc/yy/1382747628
+ 易中天品三国完整版,https://live.ottiptv.cc/yy/1461244449
+ 战争大片-国外电影,https://live.ottiptv.cc/yy/1382736857
+ 喜剧闹翻天,https://live.ottiptv.cc/yy/1382735548
+ 1960年代经典电影,https://live.ottiptv.cc/yy/1356363879
+ 1920年代经典电影,https://live.ottiptv.cc/yy/1356363876
+ 机动步队,https://live.ottiptv.cc/yy/1354932371
+ 国产动作电影,https://live.ottiptv.cc/yy/1382736858
+ 大侦探霍桑,https://live.ottiptv.cc/yy/1382737886
+ 长安汽车UNI-T直播,https://live.ottiptv.cc/yy/1349602814
+ 极品芝麻官,https://live.ottiptv.cc/yy/1354930984
+ 法证先锋Ⅳ,https://live.ottiptv.cc/yy/1354932426
+ 国内科幻片来袭,https://live.ottiptv.cc/yy/1354930821
+ 神厨小福贵,https://live.ottiptv.cc/yy/1382736860
+ 憨豆先生,https://live.ottiptv.cc/yy/1354930189
+ 奥斯卡战争大片,https://live.ottiptv.cc/yy/1354932397
+ 深夜惊悚动作大片,https://live.ottiptv.cc/yy/1382745110
+ 太空科幻巨制-星际旅行,https://live.ottiptv.cc/yy/1382736903
+ 缺宅男女-精彩港剧,https://live.ottiptv.cc/yy/1382745088
+ 野性欧洲,https://live.ottiptv.cc/yy/1354926622
+ 史诗级战争大片,https://live.ottiptv.cc/yy/1382745092
+ 1930年代经典电影,https://live.ottiptv.cc/yy/1356363815
+ 古装武打港剧-肝胆昆仑,https://live.ottiptv.cc/yy/1354936116
+ 地球上的地狱,https://live.ottiptv.cc/yy/1382736918
+ 狂飙,https://live.ottiptv.cc/yy/1508778570
+ 你看与不看我都在,https://live.ottiptv.cc/yy/1353422557
+ 能耐大了！德云社演技爆棚,https://live.ottiptv.cc/yy/1354930915
+ 烧脑悬疑电影,https://live.ottiptv.cc/yy/1382735571
+ 高分港剧合集,https://live.ottiptv.cc/yy/1382735542
+ 溏心风暴之家好月圆,https://live.ottiptv.cc/yy/1354888747
+ 1920年代经典电影,https://live.ottiptv.cc/yy/1356363810
+ 爱煙雨,https://live.ottiptv.cc/yy/1382818085
+ 超越种族的爱恋-暮光之城,https://live.ottiptv.cc/yy/1382745179
+ 本山快乐营2,https://live.ottiptv.cc/yy/1382736718
+ 丁大命,https://live.ottiptv.cc/yy/1382735579
+ 精彩不停-来电狂响,https://live.ottiptv.cc/yy/1354936210
+ 心理追凶-烧脑港剧,https://live.ottiptv.cc/yy/1354936207
+ 燃情无限流—罗拉快跑,https://live.ottiptv.cc/yy/1354936136
+ 丛林敢死队-国内电影,https://live.ottiptv.cc/yy/1354936214
+ 甜蜜青春-致我们暖暖的小时光,https://live.ottiptv.cc/yy/1382736874
+ 缺宅男女,https://live.ottiptv.cc/yy/1354930937
+ 国产喜剧大片,https://live.ottiptv.cc/yy/1382745113
+ 太空生命？高分科幻电影开播,https://live.ottiptv.cc/yy/1382851586
+ 超治愈！奇趣动物园,https://live.ottiptv.cc/yy/1382735545
+ 战争大片,https://live.ottiptv.cc/yy/1382736819
+ 什么会让你快乐,https://live.ottiptv.cc/yy/54886912
+ 降服魔女的手段-泰剧,https://live.ottiptv.cc/yy/1354932405
+ 解放：苏联战争巨片,https://live.ottiptv.cc/yy/1354936249
+ 远去的飞鹰-影视剧,https://live.ottiptv.cc/yy/1354930912
+ 战火中的故事,https://live.ottiptv.cc/yy/1382735625
+ 传奇之王-影视剧,https://live.ottiptv.cc/yy/1354926735
+ 能耐大了第1季,https://live.ottiptv.cc/yy/1354930195
+ 毒液：致命守护者,https://live.ottiptv.cc/yy/1382745095
+ 国威-仙侠古装全系列,https://live.ottiptv.cc/yy/1452527211
+ 经典搞笑影片,https://live.ottiptv.cc/yy/1382749878
+ 经典喜剧-三枪拍案惊奇,https://live.ottiptv.cc/yy/1382736849
+ 香港动作大片,https://live.ottiptv.cc/yy/1382736816
+ 笑到发晕-李茶的姑妈,https://live.ottiptv.cc/yy/1354930816
+ 钟馗传说,https://live.ottiptv.cc/yy/1382736839
+ 环球追捕，尖峰时刻带你狂飙全球,https://live.ottiptv.cc/yy/1354658051
+ 爆笑来袭-小品欢乐集结号,https://live.ottiptv.cc/yy/1382735558
+ 国内科幻,https://live.ottiptv.cc/yy/1354936170
+ 揭秘！经典传奇背后的未解之谜,https://live.ottiptv.cc/yy/1382736912
+ 欢乐集结号58-70,https://live.ottiptv.cc/yy/1382745119
+ 妖神记-全集,https://live.ottiptv.cc/yy/1382735551
+ 岳云鹏-屌丝抱得美人归,https://live.ottiptv.cc/yy/1382736882
+ 鬼片恐怖私家影院,https://live.ottiptv.cc/yy/1354209316
+ 港剧-团圆,https://live.ottiptv.cc/yy/1382749944
+ 向英雄致敬！国内战争片精选,https://live.ottiptv.cc/yy/1382745124
+ 陈赫张颂文主演-一路向前,https://live.ottiptv.cc/yy/1382749912
+ 怪医文三块-影视剧,https://live.ottiptv.cc/yy/1354936154
+ 你想象不到的国产科幻世界,https://live.ottiptv.cc/yy/1382749953
+ 探案悬疑经典--狄仁杰,https://live.ottiptv.cc/yy/1354930903
+ 9.8分！这部纪录片封神了,https://live.ottiptv.cc/yy/1382736825
+ 抗日神片，燃爆抗战热血魂,https://live.ottiptv.cc/yy/1354926600
+ 拆弹专家-刘德华,https://live.ottiptv.cc/yy/1382745111
+ 星球大战燃爆来袭！,https://live.ottiptv.cc/yy/1354932407
+ 热血战争片,https://live.ottiptv.cc/yy/1354932409
+ 名不虚传-韩剧,https://live.ottiptv.cc/yy/1382749904
+ TVB笑料王，翻生武林必看港剧,https://live.ottiptv.cc/yy/1382749910
+ 唐伯虎点秋香-国内爆笑喜剧,https://live.ottiptv.cc/yy/1382851137
+ 盗圣一枝梅,https://live.ottiptv.cc/yy/1354930894
+ 特种兵归来-国产电影,https://live.ottiptv.cc/yy/1382735581
+ 笑到颤抖，重温白头神探,https://live.ottiptv.cc/yy/1382735561
+ 超燃喜剧-疯狂的足球,https://live.ottiptv.cc/yy/1382749940
+ 漫威电影-神奇女侠,https://live.ottiptv.cc/yy/1354933556
+ 巾帼枭雄之义海豪情,https://live.ottiptv.cc/yy/1382736859
+ 绝版鬼片超好看,https://live.ottiptv.cc/yy/1356245009
+ 国外巨制-我的野蛮女友,https://live.ottiptv.cc/yy/1382749911
+ 脑洞大开的精彩科幻片,https://live.ottiptv.cc/yy/1382736723
+ 破次元大作-蝙蝠侠大战超人,https://live.ottiptv.cc/yy/1354932441
+ 阳光之下,https://live.ottiptv.cc/yy/1354936157
+ 天龙八部（国语版）,https://live.ottiptv.cc/yy/1382736855
+ 宇宙护卫队--国漫,https://live.ottiptv.cc/yy/1382736837
+ 漫威经典-奇异博士,https://live.ottiptv.cc/yy/1382736843
+ 仙灵儿,https://live.ottiptv.cc/yy/1382736887
+ 蒋勤勤王阳演绎-田姐辣妹,https://live.ottiptv.cc/yy/1354932375
+ 笑傲江湖,https://live.ottiptv.cc/yy/1355067965
+ 张子枫彭昱畅-快把我哥带走,https://live.ottiptv.cc/yy/1354936231
+ 战争大片,https://live.ottiptv.cc/yy/1382735556
+ 科幻大片,https://live.ottiptv.cc/yy/1382745181
+ 港剧迷必追！《收规华》烧脑来袭,https://live.ottiptv.cc/yy/1382741640
+ YY用户,https://live.ottiptv.cc/yy/85042287
+ X战警系列电影,https://live.ottiptv.cc/yy/1382736893
+ 烧脑经典-决胜法庭,https://live.ottiptv.cc/yy/1382745190
+ 值得n刷的律政俏佳人,https://live.ottiptv.cc/yy/1382745099
+ 飞虎之雷霆极战,https://live.ottiptv.cc/yy/1382736869
+ 狂飙,https://live.ottiptv.cc/yy/1382627144
+ 胡杏儿出演港剧-巴不得爸爸,https://live.ottiptv.cc/yy/1382749890
+ 古往今来-秦皇汉帝的传奇,https://live.ottiptv.cc/yy/1354936228
+ 电影黄飞鸿-燃爆武侠魂,https://live.ottiptv.cc/yy/1382736841
+ 港剧经典-我家无难事,https://live.ottiptv.cc/yy/1382736715
+ 国外经典—小鬼当家,https://live.ottiptv.cc/yy/1354658064
+ 金庸经典-射雕英雄传,https://live.ottiptv.cc/yy/1354889042
+ 动作大片,https://live.ottiptv.cc/yy/1354930887
+ 探寻诗歌的前世今生-诗中国,https://live.ottiptv.cc/yy/1354936178
+ 非典型古装喜剧-足秤老婆八两夫,https://live.ottiptv.cc/yy/1382749905
+ TVB经典港剧-寒山潜龙,https://live.ottiptv.cc/yy/1382745103
+ 爆笑小品！开心麻花街,https://live.ottiptv.cc/yy/1354926643
+ 国风巨制-妖猫传,https://live.ottiptv.cc/yy/1382736820
+ 铭记的岁月-战火青春,https://live.ottiptv.cc/yy/1354936195
+ 悬疑剧-河神,https://live.ottiptv.cc/yy/1353413683
+ 国外战争大片！看到过瘾,https://live.ottiptv.cc/yy/1354930957
+ 林允张新成领衔-蜗牛与黄鹂鸟,https://live.ottiptv.cc/yy/1382851148
+ 你最爱的小龙女-神雕侠侣,https://live.ottiptv.cc/yy/1354926637
+ 国产抗战神剧合集,https://live.ottiptv.cc/yy/1382749950
+ 白鹿原,https://live.ottiptv.cc/yy/35321525
+ 朵宝陪你看狄仁杰,https://live.ottiptv.cc/yy/1353753252
+ 欧美配音电影！！！,https://live.ottiptv.cc/yy/1354693629
+ 二十四小时看电影,https://live.ottiptv.cc/yy/1383556126
+ 看遍大好河山！国家自然纪录片,https://live.ottiptv.cc/yy/1382736913
+ 国内奇幻电影大片,https://live.ottiptv.cc/yy/1382735627
+ 探索真理-我们的法兰西岁月,https://live.ottiptv.cc/yy/1382745090
+ 三个臭皮匠顶一个诸葛亮,https://live.ottiptv.cc/yy/1354936221
+ 港片剧场,https://live.ottiptv.cc/yy/1355495186
+ 狂飙-热映电视,https://live.ottiptv.cc/yy/1414949452
+ 经典港剧-刑事侦缉档案,https://live.ottiptv.cc/yy/1354932359
+ 迎财神-暴走财神,https://live.ottiptv.cc/yy/1354936238
+ 精彩喜剧-一路疯癫,https://live.ottiptv.cc/yy/1382736844
+ tvb经典--街坊财爷,https://live.ottiptv.cc/yy/1382735566
+ 黄晓明主演—大汉天子,https://live.ottiptv.cc/yy/1382736810
+ 央视精选-见字如面,https://live.ottiptv.cc/yy/1382736896
+ 外国战争大片,https://live.ottiptv.cc/yy/1382736872
+ 经典港片犯罪电影-寒战,https://live.ottiptv.cc/yy/1382735559
+ 闫妮主演-疯狂72小时,https://live.ottiptv.cc/yy/1354936169
+ 少年派的奇幻漂流,https://live.ottiptv.cc/yy/1354936199
+ 超经典年代剧-工人大院,https://live.ottiptv.cc/yy/1382745122
+ 28岁未成年,https://live.ottiptv.cc/yy/1382736873
+ 经典回顾,https://live.ottiptv.cc/yy/1414883468
+ 内部测试频道请勿封禁,https://live.ottiptv.cc/yy/1352488363
+ pgsql 正在直播,https://live.ottiptv.cc/yy/53498473 
+🔯API随机点播,#genre#
+🔄美女短视频[刷新就是新内容],http://av.npcq.cn/api.php
+🔄韩国歌曲[刷新就是新内容],https://xn--vusr00g.v.nxog.top/m/tv/xjj.php?id=0
+🔄DJ舞曲[刷新就是新内容],http://xjj1.716888.xyz/fenlei/djxjj/dj1.php
+🔄网络热曲[刷新就是新内容],https://188sp.711888.xyz/188/video.php
+🔄4K视频[刷新就是新内容],http://xjj1.716888.xyz/fenlei/4k/4k.php
+🔄不吃香菜[刷新就是新内容],http://xjj2.716888.xyz/fenlei/mvmn/mvmn.php
+🔄TikTok美女[刷新就是新内容],https://xn--vusr00g.v.nxog.top/m/tv/xjj.php?id=2
+🔄美女热舞1[刷新就是新内容],https://xn--vusr00g.v.nxog.top/m/tv/xjj.php?id=1
+🔄美女热舞2[刷新就是新内容],http://xjj2.716888.xyz/fenlei/zj/gengxin/gengxin.php
+🔄美女展示1[刷新就是新内容],http://xjj2.716888.xyz/fenlei/zj/jipinyz/jipinyz.php
+🔄美女展示2[刷新就是新内容],http://xjj2.716888.xyz/fenlei/zj/xuejie/xuejie.php
+🔄美女展示3[刷新就是新内容],http://xjj2.716888.xyz/fenlei/zj/kawayi/kawayi.php
+🔄美女展示4[刷新就是新内容],http://xjj2.716888.xyz/fenlei/zj/nennen/nennen.php
+🔄美女展示5[刷新就是新内容],http://xjj2.716888.xyz/fenlei/zj/sihuawd/sihuawd.php
+🔄美女展示6[刷新就是新内容],http://xjj2.716888.xyz/fenlei/zj/manyao/manyao.php
+🔄美女展示7[刷新就是新内容],http://xjj2.716888.xyz/fenlei/zj/sihuadd/sihuadd.php
+🔄美女展示8[刷新就是新内容],http://xjj2.716888.xyz/fenlei/zj/qingchun/qingchun.php
+🔄美女展示9[刷新就是新内容],http://xjj2.716888.xyz/fenlei/zj/cos/cos.php
+🔄美女展示10[刷新就是新内容],http://xjj2.716888.xyz/fenlei/zj/heji1/heji1.php
+🔄美女展示11[刷新就是新内容],http://xjj2.716888.xyz/fenlei/zj/jingpinbz/jingpinbz.php
+🔄美女展示12[刷新就是新内容],http://xjj2.716888.xyz/fenlei/zj/jipinll/jipinll.php
+🔄美女展示13[刷新就是新内容],http://xjj2.716888.xyz/fenlei/zj/nideym/nideym.php
+🔄美女展示14[刷新就是新内容],http://xjj2.716888.xyz/fenlei/zj/tianmei/tianmei.php
+🔄美女展示15[刷新就是新内容],http://xjj2.716888.xyz/fenlei/zj/yusi/yusi.php
+🔄美女展示16[刷新就是新内容],http://xjj2.716888.xyz/fenlei/tkxjj/tk.php
+🔄美女展示17[刷新就是新内容],http://xjj2.716888.xyz/fenlei/zj/rewu/rewu.php
+🔄美女展示18[刷新就是新内容],http://xjj2.716888.xyz/fenlei/zj/jingpinsc/jingpinsc.php
+🔄美女展示19[刷新就是新内容],http://xjj2.716888.xyz/fenlei/zj/heji1/heji1.php
+🔄美女展示20[刷新就是新内容],https://xn--vusr00g.v.nxog.top/m/tv/xjj.php?id=3
+🔄美女展示21[刷新就是新内容],https://v.nrzj.vip/video.php
+🔄美女展示22[刷新就是新内容],http://xjj1.716888.xyz/fenlei/kuan2/v.php
+ 
