@@ -1,4 +1,4 @@
-﻿小七专用,https://upos-bvc-mirrorpu.bilivideo.com//upgcxcode/27/41/41052604127/41052604127-1-16.mp4?m=v1&net_type=0&tf_type=0&cid=41052604127&signed_payloads=deadline,mid,nbs,platform,trid,uipk&deadline=1787120324&mid=0&nbs=1&platform=html5&trid=a58a9f1e0c5a43e0afb8c51593945a0h&uipk=5&uip=218.12.17.23&force_host=2&app_key=vod_auth&rate_Bps=1000000&unsigned_payloads=agrr,build,buvid,dl,f&agrr=0&build=0&buvid=&dl=0&f=h_0_0&sign=a334d242d9052fd323174988a2d95e9b&backup_num=0&bandwidth_rate_Bps=566142&cdn_type=1
+﻿小七专用,https://b23.tv/U1iUbTy
 体育直播,#genre#
 篮球专场,https://live.ottiptv.cc/huya/27949551
 羽毛球专场,https://live.ottiptv.cc/huya/30806115
