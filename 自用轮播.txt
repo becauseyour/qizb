@@ -351,13 +351,18 @@ S哥影视,https://live.ottiptv.cc/huya/24720260
 摩托越野,https://cdn.ttvb.eu.org/yy/1354946983
 侏罗纪世界,https://cdn.ttvb.eu.org/yy/1382736851
 36体育,https://cdn.ttvb.eu.org/yy/36
-soop,#genre#
+SOOP,#genre#
 pud,https://cdn.ttvb.eu.org/soop/pudding0614
 han,https://cdn.ttvb.eu.org/soop/hancoma
 dk,https://cdn.ttvb.eu.org/soop/dkdleliii
 san,https://cdn.ttvb.eu.org/soop/sanaekcy
 juh,https://cdn.ttvb.eu.org/soop/juhyoung04
 se,https://cdn.ttvb.eu.org/twitch/seoi1016
+舞蹈室,https://cdn.ttvb.eu.org/soop/itsme1922
+成1,https://cdn.ttvb.eu.org/soop/charming98
+成2,https://cdn.ttvb.eu.org/soop/esc0917
+成3,https://cdn.ttvb.eu.org/soop/03apple
+成4,https://cdn.ttvb.eu.org/soop/gpwl4204
 yy电影,#genre#
 24官频陪你一起看,https://live.ottiptv.cc/yy/1351186084
  晾剑 电视剧,https://live.ottiptv.cc/yy/1451866697
